@@ -1,7 +1,7 @@
 /* TEAM */
 	Student: Richard Blomberg
 	Contact: rb222jb [at] student.lnu.se
-	From: Stockholm, Sweden
+	From: Stockholm, Swedenn
 
 /* THANKS */
 	Institution: Linnéaeus University
