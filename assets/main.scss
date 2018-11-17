@@ -2,8 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "minima";
-@import "minima/syntax-highlighting";
+//@import "minima";
+//@import "minima/syntax-highlighting";
 
 
 body {
@@ -11,6 +11,8 @@ body {
   // background: #9cb8b3;
   background: #f2f2f2;
   color: #3a3a3ac5;
+  background-image: url('./img/what-the-hex.png');
+
 }
 
 .text-wrapper {

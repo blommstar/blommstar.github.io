@@ -1,10 +1,18 @@
-{%- if page.comments != false and jekyll.environment == "production" -%}
+<!-- {%- if page.comments != false and jekyll.environment == "production" -%} -->
+{%- if page.comments != false -%}
 
   <div id="disqus_thread"></div>
   <script>
     var disqus_config = function () {
+      // this.page.url = '{{ page.url | absolute_url }}';
+      // this.page.identifier = '{{ page.url | absolute_url }}';
+      // this.page.title = "Add to the dicussion..."
       this.page.url = '{{ page.url | absolute_url }}';
       this.page.identifier = '{{ page.url | absolute_url }}';
+      this.page.title = "Add to the dicussion..."
+      console.log('this.page', this.page)
+      console.log('page', page)
+      console.log('site', site)
     };
 
     (function() {

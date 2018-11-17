@@ -1,6 +1,6 @@
 ---
 layout: default
-title: content
+title: Content
 permalink: /content/
 ---
 

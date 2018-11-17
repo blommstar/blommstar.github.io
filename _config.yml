@@ -16,10 +16,9 @@
 title: rb222jb
 email: rb222jb@student.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
-  Assignment 1 - klientbaserad webbprogrammering
+ Assignment 1 - klientbaserad webbprogrammering
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+url: "https://blommstar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  blommstar
 
 # Build settings
@@ -29,12 +28,13 @@ plugins:
   - jekyll-feed
 
 disqus:
-    shortname: rb222jb
+  shortname: rb222jb
     # alternativt disqus_ZASae0Hc4C
 
 header_pages:
   - about.md
   - content.md
+  - posts.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
