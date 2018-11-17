@@ -1,0 +1,21 @@
+/* TEAM */
+	Student: Richard Blomberg
+	Contact: rb222jb [at] student.lnu.se
+	From: Stockholm, Sweden
+
+/* THANKS */
+	Institution: Linnéaeus University
+	From: Växjö, Sweden
+
+  Professor: Mats Loock
+
+  Professor: Johan Leitet
+
+/* META */
+  Built with: Jekyll, github pages, JavaScript, Sass, Disqus,
+
+/* SITE */
+	Last update: 2018/11/17
+	Language: en
+	Doctype: HTML5
+	IDE: VS Code
